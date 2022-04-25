@@ -5,8 +5,8 @@ LIVE LINK: https://group-51-capstoneproject.netlify.app/
 
 **Memmbers and Contributions**
 
-Team Lead: Chizaram Ezugwu-(SH-IT-0107666) {Testimonial}
-Assistant Team Lead: Khadijah Abdulazeez-(SH-IT-0109525) {Header and Sign up form}
+Team Lead: Chizaram Ezugwu-(SH-IT-0107666)
+Assistant Team Lead: Khadijah Abdulazeez-(SH-IT-0109525) 
 Johnmark Oluwafemi-(SH-IT-0061111)
 Adegoke Martha Folasade-(SH-IT-0120950)
 Precious Ossai-(SH-IT-0102615)
