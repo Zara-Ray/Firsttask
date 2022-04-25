@@ -1,8 +1,14 @@
 # Firsttask
 First capstone project for Team 51 [HTML & CSS]
 
-**Memmbers and Contributions**{
+LIVE LINK: https://group-51-capstoneproject.netlify.app/
 
-Team Lead: Chizaram Ezugwu (Testimonial)
-Assistant Team Lead: Khadijah Abdulazeez (Header and Sign up form)
+**Memmbers and Contributions**
 
+Team Lead: Chizaram Ezugwu-(SH-IT-0107666) {Testimonial}
+Assistant Team Lead: Khadijah Abdulazeez-(SH-IT-0109525) {Header and Sign up form}
+Johnmark Oluwafemi-(SH-IT-0061111)
+Adegoke Martha Folasade-(SH-IT-0120950)
+Precious Ossai-(SH-IT-0102615)
+David Adekunle-(SH-IT-0005248)
+Marvelous Adesina-(SH-IT-0110095)
